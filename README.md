@@ -36,24 +36,24 @@ Feel free to reach me out by:
 
 <table>
   <tr>
-    <td style="border: none;">
+    <td>
       <a href="https://www.linkedin.com/in/jorgeajt/">
         <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="35"/>
       </a>
     </td>
-    <td style="border: none;">
+    <td>
       <a href="https://www.linkedin.com/in/jorgeajt/" style="text-decoration: none;">
         <span style="font-size: 1.1rem; margin-left: 1rem;">jorgeajt</span>
       </a>
     </td>
   </tr>
   <tr>
-    <td style="border: none;">
+    <td>
       <a href="mailto:jorgeajtrueba@gmail.com">
         <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" width="35"/>
       </a>
     </td>
-    <td style="border: none;">
+    <td>
       <a href="mailto:jorgeajtrueba@gmail.com" style="text-decoration: none;">
         <span style="font-size: 1.1rem; margin-left: 1rem;">jorgeajtrueba@gmail.com</span>
       </a>
