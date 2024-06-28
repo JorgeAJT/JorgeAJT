@@ -1,4 +1,5 @@
 
+
 # Hi 👋, I'm Jorge Jiménez 💪
 
 ## 👨‍💻 About Me 🏋️‍♂️
@@ -20,11 +21,8 @@ Full Stack Developer in continuous learning. I have a background in Industrial E
 #### Testing
 [![My Skills](https://skillicons.dev/icons?i=jest)](https://skillicons.dev)
 
-#### Software
-[![My Skills](https://skillicons.dev/icons?i=postman)](https://skillicons.dev)
-
 #### Others
-[![My Skills](https://skillicons.dev/icons?i=git,github,arduino)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,postman,arduino)](https://skillicons.dev)
 
 ## Top Languages
 <p align="center">
@@ -34,27 +32,15 @@ Full Stack Developer in continuous learning. I have a background in Industrial E
 </p>
 
 ## 📫 Contact Me 📩
-Feel free to reach me out by:linkedin
+Feel free to reach me out by:
 
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://www.linkedin.com/in/jorgeajt/">
-        <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="30"/>
-      </a>
-    </td>
-    <td align="center">
-      **LinkedIn**: [jorgeajt](https://www.linkedin.com/in/jorgeajt/)
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="mailto:jorgeajtrueba@gmail.com">
-        <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" width="30"/>
-      </a>
-    </td>
-    <td align="center">
-      **Email**: [jorgeajtrueba@gmail.com](mailto:jorgeajtrueba@gmail.com)
-    </td>
-  </tr>
-</table>
+
+  <a href="https://www.linkedin.com/in/jorgeajt/" style="display: flex; align-items: center; margin-bottom: 1rem">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="35"/>
+    <span style="font-size: 1.1rem; margin-left: 1rem">jorgeajt</span>
+  </a>
+
+  <a href="mailto:jorgeajtrueba@gmail.com" style="display: flex; align-items: center">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="LinkedIn" width="35"/>
+    <span style="font-size: 1.1rem; margin-left: 1rem">jorgeajtrueba@gmail.com</span>
+  </a>
