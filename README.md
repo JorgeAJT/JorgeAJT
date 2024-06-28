@@ -34,29 +34,16 @@ Full Stack Developer in continuous learning. I have a background in Industrial E
 ## 📫 Contact Me 📩
 Feel free to reach me out by:
 
-<table>
-  <tr>
-    <td>
-      <a href="https://www.linkedin.com/in/jorgeajt/">
-        <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="35"/>
-      </a>
-    </td>
-    <td>
-      <a href="https://www.linkedin.com/in/jorgeajt/" style="text-decoration: none;">
-        <span style="font-size: 1.1rem; margin-left: 1rem;">jorgeajt</span>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="mailto:jorgeajtrueba@gmail.com">
-        <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" width="35"/>
-      </a>
-    </td>
-    <td>
-      <a href="mailto:jorgeajtrueba@gmail.com" style="text-decoration: none;">
-        <span style="font-size: 1.1rem; margin-left: 1rem;">jorgeajtrueba@gmail.com</span>
-      </a>
-    </td>
-  </tr>
-</table>
+<p align="left">
+  <a href="https://www.linkedin.com/in/jorgeajt/" style="display: inline-block; text-decoration: none;">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="35" style="vertical-align: middle;"/>
+    <span style="font-size: 1.1rem; vertical-align: middle; margin-left: 10px;">jorgeajt</span>
+  </a>
+</p>
+
+<p align="left">
+  <a href="mailto:jorgeajtrueba@gmail.com" style="display: inline-block; text-decoration: none;">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" width="35" style="vertical-align: middle;"/>
+    <span style="font-size: 1.1rem; vertical-align: middle; margin-left: 10px;">jorgeajtrueba@gmail.com</span>
+  </a>
+</p>
