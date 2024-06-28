@@ -1,11 +1,12 @@
 
+<a href="README_ES.md" style="background-color: #28a745; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; margin: 0 10px;">Click here for Spanish version</a>
 
 # Hi 👋, I'm Jorge Jiménez 💪
 
 ## 👨‍💻 About Me 🏋️‍♂️
 Full Stack Developer in continuous learning. I have a background in Industrial Electronic Engineering and personal training, with a passion for programming and sports. Experienced in all stages of web application development, from front-end design and implementation to database creation and back-end management.
 
-## ⚙ Skills 🛠
+## ⚙ Skills and Techonologies 🛠
 #### Programming Languages
 [![My Skills](https://skillicons.dev/icons?i=js,py)](https://skillicons.dev)
 
