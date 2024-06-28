@@ -27,9 +27,11 @@ Full Stack Developer in continuous learning. I have a background in Industrial E
 [![My Skills](https://skillicons.dev/icons?i=git,github,arduino)](https://skillicons.dev)
 
 ## Top Languages
-<div align="center">
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeAJT&layout=donut)](https://github.com/JorgeAJT/github-readme-stats)
-</div>
+<p align="center">
+  <a href="https://github.com/JorgeAJT/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeAJT&layout=donut" alt="Top Langs">
+  </a>
+</p>
 
 ## 📫 Contact Me 📩
 Feel free to reach me out by:linkedin
