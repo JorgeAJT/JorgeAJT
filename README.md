@@ -36,6 +36,25 @@ Full Stack Developer in continuous learning. I have a background in Industrial E
 ## 📫 Contact Me 📩
 Feel free to reach me out by:linkedin
 
-[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev) **LinkedIn**: [jorgeajt](https://www.linkedin.com/in/jorgeajt/)
-
-[![My Skills](https://skillicons.dev/icons?i=gmail)](https://skillicons.dev) **Email**: [jorgeajtrueba@gmail.com](mailto:jorgeajtrueba@gmail.com)
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://www.linkedin.com/in/jorgeajt/">
+        <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="30"/>
+      </a>
+    </td>
+    <td align="center">
+      **LinkedIn**: [jorgeajt](https://www.linkedin.com/in/jorgeajt/)
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="mailto:jorgeajtrueba@gmail.com">
+        <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" width="30"/>
+      </a>
+    </td>
+    <td align="center">
+      **Email**: [jorgeajtrueba@gmail.com](mailto:jorgeajtrueba@gmail.com)
+    </td>
+  </tr>
+</table>
