@@ -1,9 +1,9 @@
-
+<a href="README.md" style="background-color: #28a745; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; margin: 0 10px;">Clica aquí para la versión en inglés</a>
 # Hola 👋, Soy Jorge Jiménez 💪
 
 ## 👨‍💻 Sobre Mi 🏋️‍♂️
 Desarrollador Full Stack en continuo aprendizaje. Tengo una formación en Ingeniería Electrónica Industrial y entrenamiento personal, con una pasión por la programación y el deporte. Experiencia en todas las etapas del desarrollo de aplicaciones web, desde el diseño e implementación del front-end hasta la creación de bases de datos y gestión del back-end.
-## ⚙ Tecnologías 🛠
+## ⚙ Habilidades y Tecnologías 🛠
 #### Lenguajes de Programación
 [![My Skills](https://skillicons.dev/icons?i=js,py)](https://skillicons.dev)
 
