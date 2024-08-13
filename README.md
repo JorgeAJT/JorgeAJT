@@ -23,7 +23,7 @@ Full Stack Developer in continuous learning. I have a background in Industrial E
 [![My Skills](https://skillicons.dev/icons?i=jest)](https://skillicons.dev)
 
 #### Others
-[![My Skills](https://skillicons.dev/icons?i=node.js,git,github,postman,arduino)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,git,github,postman,arduino)](https://skillicons.dev)
 
 ## Top Languages
 <p align="center">
