@@ -20,7 +20,7 @@ Desarrollador Full Stack en continuo aprendizaje. Tengo una formación en Ingeni
 [![My Skills](https://skillicons.dev/icons?i=jest)](https://skillicons.dev)
 
 #### Otros
-[![My Skills](https://skillicons.dev/icons?i=git,github,postman,arduino)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,git,github,postman,arduino)](https://skillicons.dev)
 
 ## Lenguajes Principales
 <p align="center">
