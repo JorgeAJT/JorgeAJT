@@ -5,7 +5,7 @@
 Desarrollador Full Stack en continuo aprendizaje. Tengo una formación en Ingeniería Electrónica Industrial y entrenamiento personal, con una pasión por la programación y el deporte. Experiencia en todas las etapas del desarrollo de aplicaciones web, desde el diseño e implementación del front-end hasta la creación de bases de datos y gestión del back-end.
 ## ⚙ Habilidades y Tecnologías 🛠
 #### Lenguajes de Programación
-[![My Skills](https://skillicons.dev/icons?i=js,py)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,py)](https://skillicons.dev)
 
 #### Desarrollo Frontend
 [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,react)](https://skillicons.dev)
