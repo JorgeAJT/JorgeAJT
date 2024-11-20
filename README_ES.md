@@ -14,7 +14,7 @@ Desarrollador Full Stack en continuo aprendizaje. Tengo una formación en Ingeni
 [![My Skills](https://skillicons.dev/icons?i=mysql,postgres)](https://skillicons.dev)
 
 #### Framework
-[![My Skills](https://skillicons.dev/icons?i=flask)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=flask,fastapi)](https://skillicons.dev)
 
 #### Testeo
 [![My Skills](https://skillicons.dev/icons?i=jest)](https://skillicons.dev)
