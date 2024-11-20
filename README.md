@@ -17,7 +17,7 @@ Full Stack Developer in continuous learning. I have a background in Industrial E
 [![My Skills](https://skillicons.dev/icons?i=mysql,postgres)](https://skillicons.dev)
 
 #### Framework
-[![My Skills](https://skillicons.dev/icons?i=flask)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=flask,fastapi)](https://skillicons.dev)
 
 #### Testing
 [![My Skills](https://skillicons.dev/icons?i=jest)](https://skillicons.dev)
