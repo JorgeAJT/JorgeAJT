@@ -17,13 +17,13 @@ Full Stack Developer in continuous learning. I have a background in Industrial E
 [![My Skills](https://skills-icons.vercel.app/api/icons?i=mysql,postgresql)](https://skills-icons.vercel.app)
 
 #### Framework
-[![My Skills](https://skillicons.dev/icons?i=flask,fastapi)](https://skillicons.dev)
+[![My Skills](https://skills-icons.vercel.app/api/icons?i=flask,fastapi)](https://skills-icons.vercel.app)
 
 #### Testing
-[![My Skills](https://skillicons.dev/icons?i=jest)](https://skillicons.dev)
+[![My Skills](https://skills-icons.vercel.app/api/icons?i=jest,pytest)](https://skills-icons.vercel.app)
 
 #### Others
-[![My Skills](https://skillicons.dev/icons?i=nodejs,git,github,postman,arduino)](https://skillicons.dev)
+[![My Skills](https://skills-icons.vercel.app/api/icons?i=nodejs,git,github,postman,arduino)](https://skills-icons.vercel.app)
 
 ## Top Languages
 <p align="center">
