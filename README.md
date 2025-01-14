@@ -4,7 +4,8 @@
 # Hi 👋, I'm Jorge Jiménez 💪
 
 ## 👨‍💻 About Me 🏋️‍♂️
-Full Stack Developer in continuous learning. I have a background in Industrial Electronic Engineering and personal training, with a passion for programming and sports. Experienced in all stages of web application development, from front-end design and implementation to database creation and back-end management.
+Full Stack Developer in continuous learning. I have a background in Industrial Electronic Engineering and personal training, with a passion for programming and sports. Experienced in all stages of web application development, from front-end design and implementation to database creation and back-end management. 
+I am currently strengthening my learning in backend technologies.
 
 ## ⚙ Skills and Techonologies 🛠
 #### Programming Languages
