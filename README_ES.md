@@ -2,7 +2,9 @@
 # Hola 👋, Soy Jorge Jiménez 💪
 
 ## 👨‍💻 Sobre Mi 🏋️‍♂️
-Desarrollador Full Stack en continuo aprendizaje. Tengo una formación en Ingeniería Electrónica Industrial y entrenamiento personal, con una pasión por la programación y el deporte. Experiencia en todas las etapas del desarrollo de aplicaciones web, desde el diseño e implementación del front-end hasta la creación de bases de datos y gestión del back-end. Actualmente estoy reforzando mi aprendizaje en tecnologías de backend.
+Desarrollador Full Stack en continuo aprendizaje. Tengo una formación en Ingeniería Electrónica Industrial y entrenamiento personal, con una pasión por la programación y el deporte. Experiencia en todas las etapas del desarrollo de aplicaciones web, desde el diseño e implementación del front-end hasta la creación de bases de datos y gestión del back-end. 
+
+Actualmente estoy reforzando mi aprendizaje en tecnologías de backend.
 
 ## ⚙ Habilidades y Tecnologías 🛠
 #### Lenguajes de Programación
