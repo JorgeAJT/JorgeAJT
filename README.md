@@ -37,4 +37,20 @@ Feel free to reach me out by:
 
 [![LinkedIn Icon](https://skills-icons.vercel.app/api/icons?i=linkedin)](https://www.linkedin.com/in/jorgeajt/) - [Jorge AJT](https://www.linkedin.com/in/jorgeajt/)
 
+| [![LinkedIn Icon](https://skills-icons.vercel.app/api/icons?i=linkedin)](https://www.linkedin.com/in/jorgeajt/) | [Jorge AJT](https://www.linkedin.com/in/jorgeajt/) |
+|---|---|
+
+<p style="display: inline-flex; align-items: center;">
+  <a href="https://www.linkedin.com/in/jorgeajt/">
+    <img src="https://skills-icons.vercel.app/api/icons?i=linkedin" alt="LinkedIn Icon"/>
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/jorgeajt/">Jorge AJT</a>
+</p>
+
+[![LinkedIn Icon](https://skills-icons.vercel.app/api/icons?i=linkedin)](https://www.linkedin.com/in/jorgeajt/)  
+[Jorge AJT](https://www.linkedin.com/in/jorgeajt/)
+
+
+
 ![Skills](https://skills-icons.vercel.app/api/icons?i=gmail): [jorgeajtrueba@gmail.com](mailto:jorgeajtrueba@gmail.com)
