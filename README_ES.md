@@ -3,24 +3,25 @@
 
 ## 👨‍💻 Sobre Mi 🏋️‍♂️
 Desarrollador Full Stack en continuo aprendizaje. Tengo una formación en Ingeniería Electrónica Industrial y entrenamiento personal, con una pasión por la programación y el deporte. Experiencia en todas las etapas del desarrollo de aplicaciones web, desde el diseño e implementación del front-end hasta la creación de bases de datos y gestión del back-end.
+
 ## ⚙ Habilidades y Tecnologías 🛠
 #### Lenguajes de Programación
 [![My Skills](https://skillicons.dev/icons?i=js,ts,py)](https://skillicons.dev)
 
 #### Desarrollo Frontend
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,react)](https://skillicons.dev)
+[![My Skills](https://skills-icons.vercel.app/api/icons?i=html,css,bootstrap,react)](https://skills-icons.vercel.app)
 
 #### Bases de datos
-[![My Skills](https://skillicons.dev/icons?i=mysql,postgres)](https://skillicons.dev)
+[![My Skills](https://skills-icons.vercel.app/api/icons?i=mysql,postgresql)](https://skills-icons.vercel.app)
 
 #### Framework
-[![My Skills](https://skillicons.dev/icons?i=flask,fastapi)](https://skillicons.dev)
+[![My Skills](https://skills-icons.vercel.app/api/icons?i=flask,fastapi)](https://skills-icons.vercel.app)
 
 #### Testeo
-[![My Skills](https://skillicons.dev/icons?i=jest)](https://skillicons.dev)
+[![My Skills](https://skills-icons.vercel.app/api/icons?i=jest,pytest)](https://skills-icons.vercel.app)
 
 #### Otros
-[![My Skills](https://skillicons.dev/icons?i=nodejs,git,github,postman,arduino)](https://skillicons.dev)
+[![My Skills](https://skills-icons.vercel.app/api/icons?i=nodejs,git,github,postman,arduino)](https://skills-icons.vercel.app)
 
 ## Lenguajes Principales
 <p align="center">
