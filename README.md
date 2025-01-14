@@ -35,6 +35,6 @@ Full Stack Developer in continuous learning. I have a background in Industrial E
 ## 📫 Contact Me 📩
 Feel free to reach me out by:
 
-- LinkedIn: [jorgeajt](https://www.linkedin.com/in/jorgeajt/)
+- ![Skills](https://skills-icons.vercel.app/api/icons?i=linkedin): [jorgeajt](https://www.linkedin.com/in/jorgeajt/)
 
-- Email: [jorgeajtrueba@gmail.com](mailto:jorgeajtrueba@gmail.com)
+- ![Skills](https://skills-icons.vercel.app/api/icons?i=gmail): [jorgeajtrueba@gmail.com](mailto:jorgeajtrueba@gmail.com)
