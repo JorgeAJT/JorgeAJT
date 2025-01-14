@@ -47,18 +47,8 @@ Feel free to reach me out by:
 </a>
 -->
 
-<table>
-  <tr>
-    <td>
-      <a href="https://www.linkedin.com/in/jorgeajt/">
-        <img src="https://skills-icons.vercel.app/api/icons?i=linkedin" alt="LinkedIn Icon" align="absmiddle" />
-      </a>
-    </td>
-    <td>
-      <a href="https://www.linkedin.com/in/jorgeajt/"><strong>Jorge AJT</strong></a>
-    </td>
-  </tr>
-</table>
+<img src="https://skills-icons.vercel.app/api/icons?i=linkedin" alt="LinkedIn Icon" style="vertical-align: middle;" /> <a href="https://www.linkedin.com/in/jorgeajt/"><strong>Jorge AJT</strong></a>
+
 
 
 
