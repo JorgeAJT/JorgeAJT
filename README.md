@@ -11,10 +11,10 @@ Full Stack Developer in continuous learning. I have a background in Industrial E
 [![My Skills](https://skillicons.dev/icons?i=js,ts,py)](https://skillicons.dev)
 
 #### Frontend Development
-[![My Skills](https://skills-icons.vercel.app/api/icons?i=html,css,bootstrap,react)](https://skills-icons.vercel.app)
+![Skills](https://skills-icons.vercel.app/api/icons?i=html,css,bootstrap,react)
 
 #### Database
-[![My Skills](https://skills-icons.vercel.app/api/icons?i=mysql,postgresql)](https://skills-icons.vercel.app)
+![Skills](https://skills-icons.vercel.app/api/icons?i=mysql,postgresql)
 
 #### Framework
 [![My Skills](https://skills-icons.vercel.app/api/icons?i=flask,fastapi)](https://skills-icons.vercel.app)
