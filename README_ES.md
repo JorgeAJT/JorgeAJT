@@ -21,7 +21,7 @@ Desarrollador Full Stack en continuo aprendizaje. Tengo una formación en Ingeni
 [![My Skills](https://skills-icons.vercel.app/api/icons?i=jest,pytest)](https://skills-icons.vercel.app)
 
 #### Otros
-[![My Skills](https://skills-icons.vercel.app/api/icons?i=nodejs,git,github,postman,docker,arduino)](https://skills-icons.vercel.app)
+[![My Skills](https://skills-icons.vercel.app/api/icons?i=nodejs,git,github,postman,docker,markdown,arduino)](https://skills-icons.vercel.app)
 
 ## Lenguajes Principales
 <p align="center">
