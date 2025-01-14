@@ -49,7 +49,7 @@ Feel free to reach me out by:
 
 <a href="https://www.linkedin.com/in/jorgeajt/">
   <img src="https://skills-icons.vercel.app/api/icons?i=linkedin" alt="LinkedIn Icon" align="absmiddle" />
-</a>&nbsp;
+</a>
 <a href="https://www.linkedin.com/in/jorgeajt/">Jorge AJT</a>
 
 
