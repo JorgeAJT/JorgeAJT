@@ -34,26 +34,7 @@ Full Stack Developer in continuous learning. I have a background in Industrial E
 
 ## 📫 Contact Me 📩
 Feel free to reach me out by:
-<!--
-<a href="https://www.linkedin.com/in/jorgeajt/">
-  <img src="https://skills-icons.vercel.app/api/icons?i=linkedin" alt="LinkedIn Icon" align="absmiddle" />
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/jorgeajt/"><strong style="margin-left: 8px;">Jorge AJT</strong></a>
-
-<a href="https://www.linkedin.com/in/jorgeajt/" style="text-decoration: none;">
-  <img src="https://skills-icons.vercel.app/api/icons?i=linkedin" alt="LinkedIn Icon" align="absmiddle" />
-  <strong style="margin-left: 8px;">Jorge AJT</strong>
-</a>
--->
-
 
 <a href="https://www.linkedin.com/in/jorgeajt/"><img src="https://skills-icons.vercel.app/api/icons?i=linkedin" alt="LinkedIn Icon" align="absmiddle"/></a>&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/jorgeajt/"><strong>Jorge AJT</strong></a>
 
-<a href="mailto:jorgeajtrueba@gmail.com"><img src="https://skills-icons.vercel.app/api/icons?i=gmail" alt="Gmail Icon" align="absmiddle"/></a>&nbsp;&nbsp;&nbsp;<strong>jorgeajtrueba@gmail.com</strong>
-
-
-
-
-
-![Skills](https://skills-icons.vercel.app/api/icons?i=gmail): [jorgeajtrueba@gmail.com](mailto:jorgeajtrueba@gmail.com)
+<a href="mailto:jorgeajtrueba@gmail.com"><img src="https://skills-icons.vercel.app/api/icons?i=gmail" alt="Gmail Icon" align="absmiddle"/></a>&nbsp;&nbsp;&nbsp; <strong>jorgeajtrueba@gmail.com</strong>
