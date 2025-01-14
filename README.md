@@ -9,7 +9,7 @@ Full Stack Developer in continuous learning. I have a background in Industrial E
 ## ⚙ Skills and Techonologies 🛠
 #### Programming Languages
 [![My Skills](https://skillicons.dev/icons?i=js,ts,py)](https://skillicons.dev)
-
+[![My Skills](https://skills-icons.vercel.app/api/icons?i=js,ts,py)](https://skills-icons.vercel.app)
 #### Frontend Development
 [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,react)](https://skillicons.dev)
 
