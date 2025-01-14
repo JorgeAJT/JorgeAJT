@@ -38,8 +38,8 @@ Feel free to reach me out by:
 <a href="https://www.linkedin.com/in/jorgeajt/">
   <img src="https://skills-icons.vercel.app/api/icons?i=linkedin" alt="LinkedIn Icon" align="absmiddle" />
 </a>
-&nbsp;
-<a href="https://www.linkedin.com/in/jorgeajt/">Jorge AJT</a>
+
+<a href="https://www.linkedin.com/in/jorgeajt/"><strong style="margin-left: 8px;">Jorge AJT</strong></a>
 
 <a href="https://www.linkedin.com/in/jorgeajt/" style="text-decoration: none;">
   <img src="https://skills-icons.vercel.app/api/icons?i=linkedin" alt="LinkedIn Icon" align="absmiddle" />
