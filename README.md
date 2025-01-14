@@ -48,6 +48,12 @@ Feel free to reach me out by:
   <a href="https://www.linkedin.com/in/jorgeajt/">Jorge AJT</a>
 </p>
 
+<a href="https://www.linkedin.com/in/jorgeajt/">
+  <img src="https://skills-icons.vercel.app/api/icons?i=linkedin" alt="LinkedIn Icon" align="absmiddle" />
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/jorgeajt/">Jorge AJT</a>
+
 [![LinkedIn Icon](https://skills-icons.vercel.app/api/icons?i=linkedin)](https://www.linkedin.com/in/jorgeajt/)  
 [Jorge AJT](https://www.linkedin.com/in/jorgeajt/)
 
