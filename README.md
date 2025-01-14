@@ -23,7 +23,7 @@ Full Stack Developer in continuous learning. I have a background in Industrial E
 [![My Skills](https://skills-icons.vercel.app/api/icons?i=jest,pytest)](https://skills-icons.vercel.app)
 
 #### Others
-[![My Skills](https://skills-icons.vercel.app/api/icons?i=nodejs,git,github,postman,docker,arduino)](https://skills-icons.vercel.app)
+[![My Skills](https://skills-icons.vercel.app/api/icons?i=nodejs,git,github,postman,docker,markdown,arduino)](https://skills-icons.vercel.app)
 
 ## Top Languages
 <p align="center">
