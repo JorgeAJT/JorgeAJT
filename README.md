@@ -14,7 +14,7 @@ Full Stack Developer in continuous learning. I have a background in Industrial E
 [![My Skills](https://skills-icons.vercel.app/api/icons?i=html,css,bootstrap,react)](https://skills-icons.vercel.app)
 
 #### Database
-[![My Skills](https://skillicons.dev/icons?i=mysql,postgres)](https://skillicons.dev)
+[![My Skills](https://skills-icons.vercel.app/api/icons?i=mysql,postgresql)](https://skills-icons.vercel.app)
 
 #### Framework
 [![My Skills](https://skillicons.dev/icons?i=flask,fastapi)](https://skillicons.dev)
