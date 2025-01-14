@@ -35,19 +35,6 @@ Full Stack Developer in continuous learning. I have a background in Industrial E
 ## 📫 Contact Me 📩
 Feel free to reach me out by:
 
-[![LinkedIn Icon](https://skills-icons.vercel.app/api/icons?i=linkedin)](https://www.linkedin.com/in/jorgeajt/) - [Jorge AJT](https://www.linkedin.com/in/jorgeajt/)
-
-| [![LinkedIn Icon](https://skills-icons.vercel.app/api/icons?i=linkedin)](https://www.linkedin.com/in/jorgeajt/) | [Jorge AJT](https://www.linkedin.com/in/jorgeajt/) |
-|---|---|
-
-<p style="display: flex; align-items: center;">
-  <a href="https://www.linkedin.com/in/jorgeajt/">
-    <img src="https://skills-icons.vercel.app/api/icons?i=linkedin" alt="LinkedIn Icon" style="margin-right: 10px"/>
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/jorgeajt/">Jorge AJT</a>
-</p>
-
 <a href="https://www.linkedin.com/in/jorgeajt/">
   <img src="https://skills-icons.vercel.app/api/icons?i=linkedin" alt="LinkedIn Icon" align="absmiddle" />
 </a>
