@@ -16,7 +16,7 @@ I am currently strengthening my learning in backend technologies.
 ![Skills](https://skills-icons.vercel.app/api/icons?i=html,css,bootstrap,react)
 
 #### Database
-![Skills](https://skills-icons.vercel.app/api/icons?i=mysql,postgresql)
+![Skills](https://skills-icons.vercel.app/api/icons?i=mysql,postgresql,sqlalchemy,psycopg)
 
 #### Framework
 ![Skills](https://skills-icons.vercel.app/api/icons?i=flask,fastapi)
