@@ -14,7 +14,7 @@ Actualmente estoy reforzando mi aprendizaje en tecnologías de backend.
 ![Skills](https://skills-icons.vercel.app/api/icons?i=html,css,bootstrap,react)
 
 #### Bases de datos
-![Skills](https://skills-icons.vercel.app/api/icons?i=mysql,postgresql)
+![Skills](https://skills-icons.vercel.app/api/icons?i=mysql,postgresql,sqlalchemy,psycopg)
 
 #### Framework
 ![Skills](https://skills-icons.vercel.app/api/icons?i=flask,fastapi)
