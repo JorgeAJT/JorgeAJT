@@ -4,9 +4,7 @@
 # Hi 👋, I'm Jorge Jiménez 💪
 
 ## 👨‍💻 About Me 🏋️‍♂️
-Back End Developer with a background in Industrial Electronic Engineering and personal training, with a passion for programming and sports. Experienced in all stages of web application development, with a strong focus on backend, databases, and deployment, while also leveraging front-end skills. 
-
-I am currently strengthening my learning in backend technologies.
+Back End Developer with a background in Industrial Electronic Engineering and personal training, with a passion for programming and sports. Experienced in all stages of web application development, with a strong focus on backend, databases, and deployment, while also leveraging my front-end skills. 
 
 ## ⚙ Skills and Techonologies 🛠
 #### Programming Languages
