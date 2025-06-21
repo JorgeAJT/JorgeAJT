@@ -2,19 +2,17 @@
 # Hola 👋, Soy Jorge Jiménez 💪
 
 ## 👨‍💻 Sobre Mi 🏋️‍♂️
-Desarrollador Full Stack en continuo aprendizaje. Tengo una formación en Ingeniería Electrónica Industrial y entrenamiento personal, con una pasión por la programación y el deporte. Experiencia en todas las etapas del desarrollo de aplicaciones web, desde el diseño e implementación del front-end hasta la creación de bases de datos y gestión del back-end. 
-
-Actualmente estoy reforzando mi aprendizaje en tecnologías de backend.
+Desarrollador Back End con formación en Ingeniería Electrónica Industrial y entrenamiento personal, apasionado por la programación y el deporte. Experiencia en todas las etapas del desarrollo de aplicaciones web, con un fuerte enfoque en backend, bases de datos y desployment, aprovechando también mis habilidades en frontend.
 
 ## ⚙ Habilidades y Tecnologías 🛠
 #### Lenguajes de Programación
-[![My Skills](https://skillicons.dev/icons?i=js,ts,py)](https://skillicons.dev)
-
-#### Desarrollo Frontend
-![Skills](https://skills-icons.vercel.app/api/icons?i=html,css,bootstrap,react)
+[![My Skills](https://skillicons.dev/icons?i=py,js,ts)](https://skillicons.dev)
 
 #### Bases de datos
 ![Skills](https://skills-icons.vercel.app/api/icons?i=mysql,postgresql,sqlalchemy,psycopg)
+
+#### Desarrollo Frontend
+![Skills](https://skills-icons.vercel.app/api/icons?i=html,css,bootstrap,react)
 
 #### Framework
 ![Skills](https://skills-icons.vercel.app/api/icons?i=flask,fastapi)
@@ -23,7 +21,7 @@ Actualmente estoy reforzando mi aprendizaje en tecnologías de backend.
 ![Skills](https://skills-icons.vercel.app/api/icons?i=jest,pytest)
 
 #### Otros
-![Skills](https://skills-icons.vercel.app/api/icons?i=nodejs,git,github,postman,docker,markdown,arduino)
+![Skills](https://skills-icons.vercel.app/api/icons?i=nodejs,git,github,postman,docker,markdown)
 
 ## Lenguajes Principales
 <p align="center">
